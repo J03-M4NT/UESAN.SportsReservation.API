@@ -1,7 +1,7 @@
 ﻿using Microsoft.EntityFrameworkCore;
-using UESAN.Ecommerce.CORE.Infrastructure.Repositories;
 using UESAN.SportsReservation.API.Infrastructure.Data;
 using UESAN.SportsReservation.CORE.Core.Entities;
+using UESAN.SportsReservation.CORE.Core.Interfaces;
 
 
 namespace UESAN.SportsReservation.CORE.Infrastructure.Repositories
