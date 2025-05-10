@@ -13,5 +13,7 @@ public partial class Canchas
 
     public string Ubicacion { get; set; } = null!;
 
+    public bool? IsActive { get; set; }
+
     public virtual ICollection<Reservas> Reservas { get; set; } = new List<Reservas>();
 }
