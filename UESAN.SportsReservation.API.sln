@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.13.35931.197
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UESAN.SportsReservation.API", "UESAN.SportsReservation.API\UESAN.SportsReservation.API.csproj", "{C5F7DC8F-AAAC-4BFD-A7CA-7233DCB2D830}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "UESAN.SportsReservation.CORE", "UESAN.SportsReservation.CORE\UESAN.SportsReservation.CORE.csproj", "{37080222-7240-4109-A66C-41419C6A912D}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{C5F7DC8F-AAAC-4BFD-A7CA-7233DCB2D830}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{C5F7DC8F-AAAC-4BFD-A7CA-7233DCB2D830}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{C5F7DC8F-AAAC-4BFD-A7CA-7233DCB2D830}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{C5F7DC8F-AAAC-4BFD-A7CA-7233DCB2D830}.Release|Any CPU.Build.0 = Release|Any CPU
+		{37080222-7240-4109-A66C-41419C6A912D}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{37080222-7240-4109-A66C-41419C6A912D}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{37080222-7240-4109-A66C-41419C6A912D}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{37080222-7240-4109-A66C-41419C6A912D}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {3B563BEB-17D2-425C-85E6-F900876E5FDA}
+	EndGlobalSection
+EndGlobal
